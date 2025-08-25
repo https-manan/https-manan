@@ -29,7 +29,7 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https-manan&layout=compact&theme=default&hide_border=true)  
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?user=https-manan&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=https-manan&show_icons=true&theme=default)
 
 ---
 
@@ -39,4 +39,5 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 
 ---
 Thanks for visiting.
+
 
