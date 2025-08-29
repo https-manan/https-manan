@@ -32,6 +32,8 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https-manan&layout=compact&theme=default&hide_border=true)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## Contact
@@ -40,6 +42,7 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 
 ---
 Thanks for visiting.
+
 
 
 
