@@ -10,6 +10,7 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-FD4D00?style=for-the-badge&logo=hono&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-000000?style=for-the-badge&logo=webrtc&logoColor=white)
@@ -40,6 +41,7 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 
 ---
 Thanks for visiting.
+
 
 
 
