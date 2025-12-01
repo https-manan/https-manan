@@ -28,22 +28,13 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 
 ---
 
-## GitHub Stats
-
-[![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https-manan&show_icons=true&theme=default&hide_border=true)  ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=https-manan&show_icons=true&hide_border=true
-)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https-manan&layout=compact&theme=default&hide_border=true)  ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=https-manan&layout=compact&hide_border=true
-)
-
----
-
 ## Contact
 
 **Email:** [mananbhardwaj2705@gmail.com](mailto:mananbhardwaj2705@gmail.com)
 
 ---
 Thanks for visiting.
+
 
 
 
