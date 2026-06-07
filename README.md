@@ -6,6 +6,15 @@ Developer building scalable web applications, APIs, and exploring cloud & DevOps
 
 ## Skills
 
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
