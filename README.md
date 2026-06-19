@@ -1,8 +1,8 @@
 # Hi, I'm Manan
 
-Building scalable systems and cloud-native applications, with an interest in AI, Machine Learning, and intelligent products.
-
+Building scalable web and cloud-native applications, while exploring AI,ML,DL.
 ---
+
 
 ## Skills
 
